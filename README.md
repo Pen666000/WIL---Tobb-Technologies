@@ -69,4 +69,10 @@ Reviewed group projects and selected the best frontend template for the Zonke pl
 Gained experience in code integration, team collaboration, and project planning.
 Created a plan to merge code from all teams into this single master template.
 
+Day 16
+Wrote a project proposal for Tobb Technologies using Markdown to help the company 
+gain new clients. Outlined the target audience, implementation steps, and how to measure 
+success. Improved.Improved technical writing skills and gained experience in IT project 
+planning and business analysis
+
 
