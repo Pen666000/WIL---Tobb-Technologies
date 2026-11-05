@@ -1,6 +1,41 @@
-# WIL log 2026
 
-Welcome to my Work Integrated Learning (WIL) portfolio repository. This repository documents my professional growth, technical tasks, weekly reflections, and coding projects throughout my WIL journey.
+# Work Integrated Learning (WIL) Portfolio – 2026
+
+## About This Repository
+
+Welcome to my Work Integrated Learning portfolio.
+
+This repository documents my practical IT experience, technical development, projects and professional learning at Tobb Technologies.
+
+The purpose of this portfolio is to demonstrate how I apply the knowledge gained through my Higher Certificate in Information Technology to practical tasks and projects.
+
+## Areas of Experience
+
+- Website Development
+- Computer Troubleshooting
+- Software Development
+- Programming and Technical Learning
+- Business Growth and Marketing Challenges
+- Problem-Solving and Professional Development
+
+## Technical Learning
+
+This section documents my exposure to programming languages, development tools, software frameworks and other IT technologies.
+
+## Work Evidence
+
+This repository contains:
+- Weekly WIL activities and reflections.
+- Technical documents and project files.
+- Screenshots 
+
+## Learning Objectives
+
+My objective is to strengthen my technical knowledge, improve my problem-solving abilities and develop practical skills for a career in Information Technology.
+
+---
+
+# Weekly WIL Log
 
 ---
 Day 1
