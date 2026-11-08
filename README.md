@@ -110,4 +110,18 @@ gain new clients. Outlined the target audience, implementation steps, and how to
 success. Improved.Improved technical writing skills and gained experience in IT project 
 planning and business analysis
 
+Day 17
+
+
+
+Day 18
+Studied for the Cardano Blockchain Certified Associate (CBCA) exam, took a practice exam to 
+help me prepare and pass the course. Fixed database bugs on my local machine to fix the 
+profile and login sections on Zonke. Gained debugging techniques and improved skills in reading 
+code to fix errors
+
+Day 19
+Learned the process of deploying a website live. Assisted the team in uploading real team 
+photos instead of AI images. I refined my debugging capabilities.
+
 
