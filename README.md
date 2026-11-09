@@ -22,16 +22,9 @@ The purpose of this portfolio is to demonstrate how I apply the knowledge gained
 
 This section documents my exposure to programming languages, development tools, software frameworks and other IT technologies.
 
-## Work Evidence
-
-This repository contains:
-- Weekly WIL activities and reflections.
-- Technical documents and project files.
-- Screenshots 
-
 ## Learning Objectives
 
-My objective is to strengthen my technical knowledge, improve my problem-solving abilities and develop practical skills for a career in Information Technology.
+My objective is to strengthen my technical knowledge, improve my problem-solving abilities and develop practical skills 
 
 ---
 
